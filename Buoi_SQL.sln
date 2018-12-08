@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "Bai1\Bai2.csproj", "{1BF09367-ED42-46EC-9470-B8FBC54579D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3", "Bai3\Bai3.csproj", "{691391F2-1005-45D3-969B-D91BC2C69C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF09367-ED42-46EC-9470-B8FBC54579D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF09367-ED42-46EC-9470-B8FBC54579D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF09367-ED42-46EC-9470-B8FBC54579D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF09367-ED42-46EC-9470-B8FBC54579D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691391F2-1005-45D3-969B-D91BC2C69C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691391F2-1005-45D3-969B-D91BC2C69C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691391F2-1005-45D3-969B-D91BC2C69C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691391F2-1005-45D3-969B-D91BC2C69C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

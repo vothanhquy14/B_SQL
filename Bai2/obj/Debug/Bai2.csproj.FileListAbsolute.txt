@@ -1,0 +1,5 @@
+c:\users\sinhvien\documents\visual studio 2012\Projects\Buoi_SQL\Bai2\bin\Debug\Bai2.exe.config
+c:\users\sinhvien\documents\visual studio 2012\Projects\Buoi_SQL\Bai2\obj\Debug\Bai2.csprojResolveAssemblyReference.cache
+c:\users\sinhvien\documents\visual studio 2012\Projects\Buoi_SQL\Bai2\obj\Debug\Bai1.Form1.resources
+c:\users\sinhvien\documents\visual studio 2012\Projects\Buoi_SQL\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+c:\users\sinhvien\documents\visual studio 2012\Projects\Buoi_SQL\Bai2\obj\Debug\Bai2.csproj.GenerateResource.Cache
